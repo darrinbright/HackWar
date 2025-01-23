@@ -1,0 +1,12 @@
+pandas
+pytrends
+matplotlib
+langchain
+langchain_community
+langchain_google_genai
+python-dotenv
+retrying
+flask
+streamlit
+requests
+pexels-api

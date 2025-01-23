@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Python specific files (if using Python)
+__pycache__/
+*.pyc
+
+# Python virtual environment (if using Python virtualenv)
+venv/
+
+# IDE-specific files
+.idea/
+
+# Temporary files (created during editing)
+*.swp
+
+# Script-specific (if you have executable scripts or runtime artifacts)
+*.out
+*.tmp
+*.bak
+*.log
+
+# Generated files (e.g., if using transpilers or build tools)
+dist/
+build/
